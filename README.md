@@ -4,16 +4,19 @@ Implemented 'Threading' and 'Process Management' components in Pintos operating 
 This involved implementing priority scheduling, priority donation, multilevel feedback queue scheduling and system call layer.
 
 ## Project 1:
-Implement Alarm Clock
-Implement priority scheduler
+-Implement Alarm Clock
+-Implement priority scheduler
 Implement priority pnversion
 Implement priority donation
 Implement multi-level feedback scheduling
 
 ## Project 2:
 Argument Passing
+
 User Memory Access
+
 System Call Infrastructure
+
 Implement 13 system calls
 
 
